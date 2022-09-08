@@ -41,6 +41,8 @@
     /*padding-left: 100px;*/
     float: left;
         /*position: fixed; !* Fixed Sidebar (stay in place on scroll) *!*/
+        font-size: 12;
+
 }
 
 /* The navigation menu links */
@@ -73,6 +75,8 @@
     overflow: hidden;
     padding-top: 8.7%;
     padding-left: 70px;
+        font-size: 12;
+
 }
 
 .works p {
