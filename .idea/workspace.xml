@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c90ea05-8757-45a6-a1ec-0117ba0273f2" name="Changes" comment="New domain">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="3c90ea05-8757-45a6-a1ec-0117ba0273f2" name="Changes" comment="New domain" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +49,7 @@
       <workItem from="1636738641837" duration="882000" />
       <workItem from="1636740044396" duration="782000" />
       <workItem from="1637541018980" duration="42000" />
-      <workItem from="1662627819495" duration="2200000" />
+      <workItem from="1662627819495" duration="2731000" />
     </task>
     <task id="LOCAL-00001" summary="New domain">
       <created>1636736830279</created>
